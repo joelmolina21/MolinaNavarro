@@ -1,0 +1,6 @@
+{
+  "name": "Portapapeles SysAdmin - Joel Molina Navarro",
+  "description": "Portapapeles interactivo y gamificado para búsqueda de empleo de Joel Molina Navarro, Administrador de Sistemas y Redes (Titulado ASIR). Incluye telemetría en tiempo real, perfiles RPG, terminal interactivo y generador de pitches para RRHH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
